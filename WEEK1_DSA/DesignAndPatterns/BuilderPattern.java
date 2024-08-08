@@ -1,3 +1,4 @@
+package WEEK1_DSA.DesignAndPatterns;
 public class BuilderPattern {
     static class Computer {
         private String cpu;
