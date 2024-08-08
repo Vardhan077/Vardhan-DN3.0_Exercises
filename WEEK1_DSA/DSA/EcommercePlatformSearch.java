@@ -1,4 +1,4 @@
-package WEEK1_DSA.DSA;
+package DSA;
 import java.util.*;
 
 

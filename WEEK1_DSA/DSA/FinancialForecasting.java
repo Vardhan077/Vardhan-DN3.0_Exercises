@@ -1,5 +1,3 @@
-package WEEK1_DSA.DSA;
-package WEEK1_DSA.DSA;
 public class FinancialForecasting {
     public static double calculateFutureValue(double principal, double interestRate, int years) {
         if (years == 0) {

@@ -1,4 +1,3 @@
-package WEEK1_DSA.DesignAndPatterns;
 import java.util.ArrayList;
 import java.util.List;
 

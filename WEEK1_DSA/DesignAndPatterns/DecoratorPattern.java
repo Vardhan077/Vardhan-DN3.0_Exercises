@@ -1,4 +1,3 @@
-package WEEK1_DSA.DesignAndPatterns;
 
 
 public class DecoratorPattern {

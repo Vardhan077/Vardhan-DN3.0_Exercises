@@ -1,4 +1,3 @@
-package WEEK1_DSA.DesignAndPatterns;
 public class CommandPattern {
     public static void main(String[] args) {
         Light livingRoomLight = new Light();

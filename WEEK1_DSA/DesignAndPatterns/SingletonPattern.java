@@ -1,4 +1,3 @@
-package WEEK1_DSA.DesignAndPatterns;
 
 public class SingletonPattern {
     public static void main(String[] args) {

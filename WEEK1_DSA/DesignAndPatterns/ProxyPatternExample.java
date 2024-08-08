@@ -1,5 +1,3 @@
-package WEEK1_DSA.DesignAndPatterns;
-package WEEK1_DSA.DesignAndPatterns;
 
 public class ProxyPatternExample {
     public static void main(String[] args) {
